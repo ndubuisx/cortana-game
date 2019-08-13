@@ -1,11 +1,7 @@
-# CoreBot
-Bot Framework v4 core bot sample.
+# Game with Cortana
+Bot Framework v4.
 
-This bot has been created using [Bot Framework][1], it shows how to:
-- Use [LUIS][11] to implement core AI capabilities
-- Implement a multi-turn conversation using Dialogs
-- Handle user interruptions for such things as `Help` or `Cancel`
-- Prompt for and validate requests for information from the user
+This bot has been created using [Bot Framework][1]
 
 ## Prerequisites
 - [.NET Core SDK][4] version 2.1
@@ -43,22 +39,6 @@ This bot has been created using [Bot Framework][1], it shows how to:
 - Copy the userPWD value
 - Right click on the Project and click on "Publish..."
 - Paste the password you just copied and publish
-
-# Further reading
-- [Bot Framework Documentation][20]
-- [Bot Basics][32]
-- [Prompt types][23]
-- [Waterfall dialogs][24]
-- [Ask the user questions][26]
-- [Activity processing][25]
-- [Azure Bot Service Introduction][21]
-- [Azure Bot Service Documentation][22]
-- [.NET Core CLI tools][23]
-- [Azure CLI][7]
-- [msbot CLI][9]
-- [Azure Portal][10]
-- [Language Understanding using LUIS][11]
-- [Channels and Bot Connector Service][27]
 
 
 [1]: https://dev.botframework.com
